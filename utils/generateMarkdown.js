@@ -83,7 +83,7 @@ ${renderLicenseSection(data.license)}
 
 ## Questions
 
-If there are any questions you can contact me at ${data.email} or refer to https://github/${data.username} 
+If there are any questions you can contact me at ${data.email} or refer to https://github.com/${data.username} 
 `;
 }
 
